@@ -1,0 +1,2 @@
+# weatherapp
+Weather API (Openweathermap)
